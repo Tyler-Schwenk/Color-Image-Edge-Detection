@@ -16,4 +16,4 @@ Because I did this as an assignment for a computer vision class in college, I ha
   - If necessary, the detection of the object could be more strict by being fed more information. For example if given an estimate of the shape of the object, a Hough transform could be added to help verify selected canidates.
 
 ## Example Input and Output
-![](/)
+![](/ColorEdgeDetectionOutput.jpg)
